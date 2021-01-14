@@ -1,0 +1,29 @@
+#content {
+    margin: 50px;
+    border-radius: 15px;
+    font-size: large;
+    font-weight: bold;
+}
+
+#t0 {
+    background-color: #6f9063;
+    width: 600px;
+    overflow: hidden;
+    margin: auto;
+    padding: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+
+#bluePrint {
+    font-weight: bold;
+    font-size: large;
+    padding: 36px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
