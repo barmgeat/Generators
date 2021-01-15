@@ -32,9 +32,27 @@ you can check files to see more details.
 
 ---
 
+### Generate starter React App: 
+<pre>
+hygen SReact with-prompt
+</pre>
+To Generate Starter template 
+vars we need : 
+- Name : Application Name.
+#### After generating the Template : 
+<pre>
+npm install
+npm start 
+</pre>
+That will open in your Browse the Application Home Page :) 
+
+
+---
+
 ### **Don't forget** 
 to check hygen 
 1. ajax
 2. jquery
 3. MongoDB Models
 4. Node App
+5. Starter React App
