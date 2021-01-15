@@ -33,7 +33,7 @@ you can check files to see more details.
 ---
 
 ### **Don't forget** 
-to check heygen 
+to check hygen 
 1. ajax
 2. jquery
 3. MongoDB Models
